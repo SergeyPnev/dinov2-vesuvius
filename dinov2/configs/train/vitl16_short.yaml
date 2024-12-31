@@ -1,0 +1,6 @@
+# this corresponds to the default config
+train:
+  dataset_path: vc
+  batch_size_per_gpu: 92
+student:
+  block_chunks: 4
